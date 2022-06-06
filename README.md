@@ -5,6 +5,8 @@ Uma calculadora lógica, é uma calculadora capaz de efetuar cálculos lógicos,
 
 O programa foi feito usando a linguagem de programação C, e também usando os conceitos básicos da matéria de Estrutura de dados, conceitos estes como pilha, lista, fila e etc. Usando também boas praticas de programação, também sempre priorizando a otimização do software, assim tendo um bom desempenho em questão de memória e processamento.
 
+Neste repositório também há um relatório em PDF, explicando todos os conceitos do algoritmo, como foi feito, os porquês de cada escolha e etc.
+
 ## Requisitos
 É necessário ter ter o compilador de C/C++ intalado em seu computador.
 
